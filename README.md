@@ -11,11 +11,12 @@ We already support the following platforms:
 CentOS 7
 Docker
 macOS 10 +
+We will support the following platforms in the future:
+
+
 Red Hat Enterprise Linux 7.0 +
 Ubuntu 14.04, Ubuntu 14.10, Ubuntu 15.04, Ubuntu 15.10, Ubuntu 16.04, Ubuntu 16.10
 Windows 7 SP1 +, Windows Server 2008 R2 +
-
-We will support the following platforms in the future:
 
 Debian
 Fedora
@@ -58,5 +59,5 @@ Note: It is OK for your PR to include a large number of commits. Once your chang
 License
 The NEO project is licensed under the MIT license.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTE2MDM1OV19
+eyJoaXN0b3J5IjpbMTYwMjA2ODUwOV19
 -->
