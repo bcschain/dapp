@@ -1,4 +1,4 @@
-# dapp
+# DApp 
 NEO: A distributed network for the Smart Economy that have chosen as an e-commerce platform.
 
 The Blockchain Store intends to address these deficiencies with the creation of a decentralized e-commerce platform. 
@@ -29,5 +29,5 @@ Windows
 License
 The NEO project is licensed under the MIT license.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMzU1MTcwXX0=
+eyJoaXN0b3J5IjpbLTIwODkyNjE3MDIsNjkzMzU1MTcwXX0=
 -->
