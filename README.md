@@ -1,5 +1,5 @@
 # dapp
-NEO: A distributed network for the Smart Economy that have ch
+NEO: A distributed network for the Smart Economy that have chos
 
 The Blockchain Store intends to address these deficiencies with the creation of a decentralized e-commerce platform .The Block will implement smart contracts to provide an e-commerce infrastructure and use cryptocurrency for customer purchases and merchant listing fees .By using smart contracts for the creation of the online store and BCS's native currency, the project eliminates the need for third parties that have previously always been necessary for hosting and payment processing.
 
@@ -58,5 +58,5 @@ Note: It is OK for your PR to include a large number of commits. Once your chang
 License
 The NEO project is licensed under the MIT license.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzI0NzQwMF19
+eyJoaXN0b3J5IjpbLTE3NTIxOTY5ODhdfQ==
 -->
