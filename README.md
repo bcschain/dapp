@@ -29,5 +29,5 @@ Windows
 License
 The NEO project is licensed under the MIT license.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODkyNjE3MDIsNjkzMzU1MTcwXX0=
+eyJoaXN0b3J5IjpbLTIwODkyNjE3MDJdfQ==
 -->
