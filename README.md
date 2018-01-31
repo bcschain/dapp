@@ -6,9 +6,12 @@ The Block will implement smart contracts to provide an e-commerce infrastructure
 
 By using smart contracts for the creation of the online store and BCS's native currency, the project eliminates the need for third parties that have previously always been necessary for hosting and payment processing.
 
-One important consequence of its decentralized design is that The Blockchain Store will further enhance user privacy .Not only can cryptocurrency payments offer a strong element of anonymity, but there will be no third parties collecting user data.
+One important consequence of its decentralized design is that The Blockchain Store will further enhance user privacy.
+Not only can cryptocurrency payments offer a strong element of anonymity, but there will be no third parties collecting user data.
 
-The Blockchain Store itself does not need any personal data, operating in a permission-less manner and performing no monitoring. A user needs only the BCS application and a small amount of coins to get started and connect to the BCS Blockchain.
+The Blockchain Store itself does not need any personal data, operating in a permission-less manner and performing no monitoring.
+
+A user needs only the BCS application and a small amount of coins to get started and connect to the BCS Blockchain.
 
 Our Whitepaper: http://www.bcschain.io/BCS-Whitepaper.pdf
 
@@ -26,5 +29,5 @@ Windows
 License
 The NEO project is licensed under the MIT license.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3ODI5MjJdfQ==
+eyJoaXN0b3J5IjpbNjkzMzU1MTcwXX0=
 -->
